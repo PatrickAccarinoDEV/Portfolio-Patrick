@@ -1,0 +1,12 @@
+footer {
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+.footer-copy {
+  text-align: center;
+}
+
+.footer-copy:hover {
+  color: #12abcd;
+}
